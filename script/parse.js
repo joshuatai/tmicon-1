@@ -9,6 +9,7 @@ const svgPathStart = 'd="';
 const svgPathEnd = '"></path>';
 const dataFromSvgFile = {};
 const dataParsedFromApi = {};
+
 // Create tmIconMap.js file for Tonic UI
 const TEMPLATE = `/* eslint-disable */
 // This file is auto generated.
